@@ -1,0 +1,41 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px blue;
+}
+
+.headingDiv {
+    float: none;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 20px;
+    color: blue;
+    box-shadow: 5px 5px 5px blue;
+}
+
+.headingDiv2 {
+    font-size: 18px;
+}
+
+.resultPTag {
+    box-shadow: 5px 5px 5px blue;
+    font-size: 20px;
+}
+
+.footer {
+    position: fixed;
+    color: aqua;
+    background-color: blue;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px dashed black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px blue;
+    margin-top: 100px;
+}
